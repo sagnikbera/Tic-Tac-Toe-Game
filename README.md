@@ -1,8 +1,7 @@
 # Tic-Tac-Toe-Game
 <br>
-<br>
-<br>
-** Overview**
+
+**Overview**
 <br>
 This repository contains a simple implementation of the classic Tic-Tac-Toe game using HTML, CSS, and basic JavaScript. The game provides a user-friendly interface for an interactive gaming experience.
 <br>
